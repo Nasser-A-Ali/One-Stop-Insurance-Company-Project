@@ -14,7 +14,7 @@ Preview of the program's output
 
 <hr>
 
-The requirements that were followed to create this program can be found in the PDF file for this repo. This program requests some values, imports another file that was created to validate them, uses various functions to performs calculations, and displays the results in a neatly formatted output.
+The requirements that were followed to create this program can be found in the PDF file for this repo. This program requests some values, imports another file that was created to validate them, uses various functions to perform calculations, and displays the results in a neatly formatted output.
 
 
 <ins>Highlighted skills</ins>: modular programming, functional programming, input validation, formatted string literals, formatted output, iterative statements (loops)
